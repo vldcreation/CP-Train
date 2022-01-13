@@ -1,4 +1,20 @@
 {
     "java.project.sourcePaths": ["src"],
-    "java.project.outputPath": "bin"
+    "java.project.outputPath": "bin",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "mysql-66042-0.cloudclusters.net",
+            "port": 12439,
+            "driver": "MySQL",
+            "database": "learn",
+            "username": "admin",
+            "password": "yA1QwFdM",
+            "name": "SQL Cluster Connection",
+            "group": "SQL"
+        }
+    ]
 }

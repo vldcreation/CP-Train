@@ -7,4 +7,20 @@
         "ostream": "cpp",
         "iostream": "cpp"
     },
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "mysql-66042-0.cloudclusters.net",
+            "port": 12439,
+            "driver": "MySQL",
+            "name": "Sql Cluster Remote",
+            "group": "SQL",
+            "database": "learn",
+            "username": "admin",
+            "password": "yA1QwFdM"
+        }
+    ],
 }
